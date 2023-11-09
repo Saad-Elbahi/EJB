@@ -16,4 +16,5 @@ Make sure you have the following tools installed before getting started with thi
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/awesome-ejb-project.git
+   git clone https://github.com/Saad-Elbahi/EJB.git
+   cd EJB
